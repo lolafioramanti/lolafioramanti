@@ -1,6 +1,6 @@
-# Ｌｏｌａ　Ｆｉｏｒａｍａｎｔｉ
+# Lola Fioramanti
 
-º Ｅｓｔｕｄｉａｎｔｅ　ｄｅ　Ｉｎｇ．　ｅｎ　Ｃｏｍｐｕｔａｃｉóｎ
+Estudiante de Ingeniería en computación.
 
 
 ```
